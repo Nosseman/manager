@@ -1,8 +1,8 @@
 # manager
-Prerequirement:
-Python 3.8.0 installed
+#Prerequirement:
+#Python 3.8.0 installed
 
-Steps:
-pip install virtualenvwrapper <os spesific>
-mkvirtualenv gym
+#Steps:
+#pip install virtualenvwrapper <os spesific>
+#mkvirtualenv gym
 
